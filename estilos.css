@@ -1,1 +1,21 @@
-<!---->
+h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font: bold 14px sans-serif ;
+}
+
+header, section, footer, aside, nav, article, hgroup {
+    border: 1px solid rgb(252, 0, 0);
+}
+
+body {
+    text-align: center;
+}
+
+div {
+    background: rgb(0, 0, 0);
+}
